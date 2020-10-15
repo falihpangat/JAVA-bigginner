@@ -1,6 +1,4 @@
-import java.lang.*;
-import java.io.*;
-import java.util.*;
+
 
 class Revers{
     public static void main(String[] args) {
