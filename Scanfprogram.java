@@ -13,6 +13,7 @@ public class Scanfprogram {
         long mobileNo = sc.nextLong();
         System.out.println("enter the CGPA");
         double CGPA =sc.nextDouble();
+        sc.close();
 
         System.out.println("Name: "+name);
         System.out.println("gender: "+gender);
